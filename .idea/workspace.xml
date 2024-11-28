@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c873556-0f00-4d0d-b4c2-5193f11c78af" name="Changes" comment="Added words and symbol count">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="5c873556-0f00-4d0d-b4c2-5193f11c78af" name="Changes" comment="Added readme." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xewkss/text-analyser.git",
-    "accountId": "0be030c2-eaa5-484b-8289-7d6dc3a48e8e"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xewkss&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xewkss/text-analyser.git&quot;,
+    &quot;accountId&quot;: &quot;0be030c2-eaa5-484b-8289-7d6dc3a48e8e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -93,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732624659006</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added readme.">
+      <option name="closed" value="true" />
+      <created>1732624908814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732624908814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <MESSAGE value="Added words and symbol count" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added words and symbol count" />
+    <MESSAGE value="Added readme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme." />
   </component>
 </project>
